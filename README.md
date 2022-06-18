@@ -1,4 +1,4 @@
-#Mobile Application Development Class
+# Mobile Application Development Class
 
 Flutter projects for the classroom
 
